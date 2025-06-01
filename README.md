@@ -1,4 +1,4 @@
-# Mini CRM Platform
+# segmentFlowAI
 
 ## Overview
 The Mini CRM Platform is designed to enable customer segmentation, personalized campaign delivery, and intelligent insights. It leverages modern technologies and approaches to provide a seamless experience for managing customer relationships and marketing campaigns.
