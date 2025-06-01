@@ -19,7 +19,7 @@ The Mini CRM Platform is designed to enable customer segmentation, personalized 
 
 ## Project Structure
 ```
-mini-crm-platform
+segmentFlowAI
 ├── frontend
 │   ├── src
 │   ├── package.json
