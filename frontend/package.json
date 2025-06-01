@@ -1,0 +1,23 @@
+{
+  "name": "mini-crm-platform-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "axios": "^0.21.1",
+    "tailwindcss": "^2.2.19",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4",
+    "vite-plugin-react": "^1.0.0"
+  }
+}
